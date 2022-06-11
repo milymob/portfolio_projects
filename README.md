@@ -18,4 +18,4 @@ enjoy :)
 * if there is trouble opening the bellabeat_casestudy file, you can view it on my Kaggle
 profile along with all the previous versions: https://www.kaggle.com/code/milymob/bellabeat-case-study-using-r/edit/run/94611864 
 
-** to view data visualizations i have created, please visit my Tableau Public profile: https://public.tableau.com/app/profile/emily.mobley11#!/?newProfile=&activeTab=0
+* to view data visualizations i have created, please visit my Tableau Public profile: https://public.tableau.com/app/profile/emily.mobley11#!/?newProfile=&activeTab=0
